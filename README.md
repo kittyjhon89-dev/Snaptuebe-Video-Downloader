@@ -15,11 +15,8 @@ A fast and easy online video downloader for Snaptuebe.com with support for HD vi
 5. Wait for the installation to finish. You’re now ready to download videos and music, convert files to MP3, and enjoy content offline.
 For a detailed guide, visit our website **https://snaptuebe.com/**
 
-🔍 Why Snaptuebe.com?
-
-Our goal is to provide Android users with fast, safe, and useful content.
-We cover trending apps, performance fixes, video-downloading tools, cloud storage solutions, and easy step-by-step guides to make the Android experience smoother.
-
-📞 Contact
-
+<h2><strong>🔍 Why Snaptuebe.com?</strong></h2> 
+Our goal is to provide Android users with fast, safe, and useful content. We cover trending apps, performance fixes, video-downloading tools, cloud storage solutions, and easy step-by-step guides to make the Android experience smoother.
+<br><br>
+<h2><strong>📞 Contact</strong></h2> 
 If you have suggestions or would like to collaborate, feel free to reach out anytime!
