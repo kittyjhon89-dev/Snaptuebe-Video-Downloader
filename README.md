@@ -16,8 +16,10 @@ A fast and easy online video downloader for Snaptuebe.com with support for HD vi
 For a detailed guide, visit our website **https://snaptuebe.com/**
 
 🔍 Why Snaptuebe.com?
+
 Our goal is to provide Android users with fast, safe, and useful content.
 We cover trending apps, performance fixes, video-downloading tools, cloud storage solutions, and easy step-by-step guides to make your Android experience smoother.
 
 📞 Contact
+
 If you have suggestions or would like to collaborate, feel free to reach out anytime!
