@@ -13,3 +13,10 @@ A fast and easy online video downloader for Snaptuebe.com with support for HD vi
 3. Click the APK file to start the installation once it has been downloaded to your device.
 4. If you see a pop-up saying “Install unknown apps permission,” go to **Settings** and enable **Unknown Sources**. Then return and continue the installation.
 5. Wait for the installation to finish. You’re now ready to download videos and music, convert files to MP3, and enjoy content offline.
+For a detailed guide, visit our website **https://snaptuebe.com/**
+🔍 Why Snaptuebe.com?
+Our goal is to provide Android users with fast, safe, and useful content.
+We cover trending apps, performance fixes, video-downloading tools, cloud storage solutions, and easy step-by-step guides to make your Android experience smoother.
+
+📞 Contact
+If you have suggestions or would like to collaborate, feel free to reach out anytime!
